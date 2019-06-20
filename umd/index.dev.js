@@ -174,7 +174,7 @@ var APP_NAME = 'TinodeWeb/' + (_version_js__WEBPACK_IMPORTED_MODULE_0__["PACKAGE
 var API_KEY = 'AQEAAAABAAD_rAp4DJh05a1HAwFT3A6K';
 var KNOWN_HOSTS = {
   hosted: 'api.tinode.co',
-  local: 'localhost:6060'
+  local: 'hugo-dev.hktaxiapp.com:6060'
 };
 var DEFAULT_HOST = KNOWN_HOSTS.hosted;
 var KEYPRESS_DELAY = 3 * 1000;
