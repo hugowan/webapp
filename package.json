@@ -78,6 +78,7 @@
   "license": "Apache-2.0",
   "dependencies": {
     "firebase": "^5.8.6",
+    "grpc": "^1.21.1",
     "react": "^16.8.4",
     "react-dom": "^16.8.4",
     "react-intl": "^2.8.0",

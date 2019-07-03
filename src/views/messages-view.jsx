@@ -8,7 +8,7 @@ import ChatMessage from '../widgets/chat-message.jsx';
 import ErrorPanel from '../widgets/error-panel.jsx';
 import GroupSubs from '../widgets/group-subs.jsx';
 import ImagePreview from '../widgets/image-preview.jsx';
-import Invitation from '../widgets/Invitation.jsx';
+import Invitation from '../widgets/invitation.jsx';
 import LetterTile from '../widgets/letter-tile.jsx';
 import LoadSpinner from '../widgets/load-spinner.jsx';
 import LogoView from './logo-view.jsx';
